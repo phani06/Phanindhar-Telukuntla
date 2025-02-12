@@ -1,1 +1,26 @@
-title: phanindhar telukuntla
+title: "Phanindhar's Portfolio"
+email: your-email@example.com
+description: > 
+  Machine Learning Enthusiast | Data Science Specialist | Open to Research Roles
+baseurl: "" # leave empty unless the site is in a subfolder
+theme: minima # or choose another Jekyll theme
+url: "https://yourusername.github.io" # your GitHub Pages URL
+
+# Navigation Links
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects/"
+  - name: "Resume"
+    link: "/resume/"
+  - name: "Blog"
+    link: "/blog/"
+  - name: "Contact"
+    link: "/contact/"
+
+social_links:
+  - name: GitHub
+    link: https://github.com/yourusername
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/yourusername
