@@ -24,3 +24,8 @@ social_links:
     link: https://github.com/yourusername
   - name: LinkedIn
     link: https://www.linkedin.com/in/yourusername
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
